@@ -84,5 +84,5 @@
        * [一十诗](yi_shi_shi.md)
        * [随题](sui_ti.md)
    * 现代诗
-       * 痛苦的原因
+       * [痛苦的原因](tong_ku_de_yuan_yin.md)
 
