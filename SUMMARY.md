@@ -31,5 +31,5 @@
        * [峨眉山游（三）](e_mei_shan_you_ff08_san_ff09.md)
    * 现代诗
        * [指路灯](zhi_lu_deng.md)
-       * 黑暗与光明
+       * [黑暗与光明](hei_an_yu_guang_ming.md)
 
