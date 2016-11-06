@@ -80,5 +80,5 @@
        * [八分山游](ba_fen_shan_you.md)
        * [游言](you_yan.md)
        * [贺外婆六十大寿](he_wai_po_liu_shi_da_shou.md)
-       * 南湖仙喻
+       * [南湖仙喻](nan_hu_xian_yu.md)
 
