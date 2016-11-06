@@ -74,7 +74,7 @@
        * [丢弃梦想](diu_qi_meng_xiang.md)
        * [纸](zhi.md)
    * 词
-       * 点绛唇·颂梅
+       * [点绛唇·颂梅](dian_jiang_5507b7_song_mei.md)
 * 2014
    * 古诗
        * [知秋](zhi_qiu.md)
