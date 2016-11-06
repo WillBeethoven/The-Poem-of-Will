@@ -67,5 +67,5 @@
        * [发旧](fa_jiu.md)
        * [人](ren.md)
        * [亮](liang.md)
-       * 丢弃梦想
+       * [丢弃梦想](diu_qi_meng_xiang.md)
 
