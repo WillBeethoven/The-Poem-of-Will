@@ -34,4 +34,5 @@
        * [指路灯](zhi_lu_deng.md)
        * [黑暗与光明](hei_an_yu_guang_ming.md)
        * [角落](jiao_luo.md)
+       * 西风颂
 
