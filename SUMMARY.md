@@ -6,7 +6,7 @@
        * [拟归田园居](ni_gui_tian_yuan_ju.md)
 * [2011](2011.md)
    * [古诗](2011_gu_shi.md)
-       * 隐居杂诗（二）
+       * [隐居杂诗（二）](yin_ju_za_shi_ff08_er_ff09.md)
 * [2012](2012.md)
    * [古诗](2012_gu_shi.md)
    * [现代诗](2012_xian_dai_shi.md)
