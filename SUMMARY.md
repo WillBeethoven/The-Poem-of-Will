@@ -27,5 +27,4 @@
    * [古诗](gu_shi.md)
        * [指路灯](zhi_lu_deng.md)
        * [世事](shi_shi.md)
-           * 峨眉山游（一）谜语
 
