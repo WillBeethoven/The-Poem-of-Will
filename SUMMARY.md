@@ -38,5 +38,5 @@
        * [草丛乐团](cao_cong_le_tuan.md)
        * [绝与望](jue_yu_wang.md)
        * [终曲](zhong_qu.md)
-       * 粉红的老鼠
+       * [粉红的老鼠](fen_hong_de_lao_shu.md)
 
