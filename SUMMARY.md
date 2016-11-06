@@ -16,7 +16,7 @@
        * [夏日](xia_ri.md)
        * [少年游·江畔独吟](shao_nian_6e38b7_jiang_pan_du_yin.md)
        * [逸麟嘉薇](yi_lin_jia_wei.md)
-       * 锁清秋
+       * [锁清秋](suo_qing_qiu.md)
    * [现代诗](2012_xian_dai_shi.md)
        * [雕像](diao_xiang.md)
 
