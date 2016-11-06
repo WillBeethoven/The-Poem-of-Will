@@ -47,5 +47,5 @@
        * [最后的光](zui_hou_de_guang.md)
        * [日记](ri_ji.md)
        * [斯事](si_shi.md)
-       * 教堂
+       * [教堂](jiao_tang.md)
 
