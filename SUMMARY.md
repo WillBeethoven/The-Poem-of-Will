@@ -41,5 +41,5 @@
        * [粉红的老鼠](fen_hong_de_lao_shu.md)
        * [窗](chuang.md)
        * [玩伴](wan_ban.md)
-       * 求知
+       * [求知](qiu_zhi.md)
 
