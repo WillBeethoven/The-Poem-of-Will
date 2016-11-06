@@ -83,4 +83,5 @@
        * [南湖仙喻](nan_hu_xian_yu.md)
        * [一十诗](yi_shi_shi.md)
        * [随题](sui_ti.md)
+   * 现代诗
 
