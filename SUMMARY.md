@@ -35,4 +35,5 @@
        * [黑暗与光明](hei_an_yu_guang_ming.md)
        * [角落](jiao_luo.md)
        * [西风颂](xi_feng_song.md)
+       * 草丛乐团
 
