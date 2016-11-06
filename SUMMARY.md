@@ -74,5 +74,5 @@
        * [知秋](zhi_qiu.md)
    * 现代诗
        * [默泣](mo_qi.md)
-       * 谶言
+       * [谶言](chen_yan.md)
 
