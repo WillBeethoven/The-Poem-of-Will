@@ -24,5 +24,5 @@
        * [依旧](yi_jiu.md)
        * [你遗落在我梦里的梦](ni_yi_luo_zai_wo_meng_li_de_meng.md)
 * 2013
-   * 古诗
+   * [古诗](gu_shi.md)
 
