@@ -31,4 +31,5 @@
        * [峨眉山游（二）](e_mei_shan_you_ff08_er_ff09.md)
        * [峨眉山游（三）](e_mei_shan_you_ff08_san_ff09.md)
    * 现代诗
+       * 黑暗与光明
 
