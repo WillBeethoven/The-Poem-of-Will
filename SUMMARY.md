@@ -111,6 +111,7 @@
         * [不知谜](bu_zhi_mi.md)
         * [决绝诗](决绝诗.md)
         * [记十二月十五日月圆](记十二月十五日月圆.md)
+        * [未知谜](未知谜.md)
     * 现代诗
         * [灯笼树-现代诗体](deng_long_6811-_xian_dai_shi_ti.md)
         * [无题两首](wu_ti_liang_shou.md)
