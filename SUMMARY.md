@@ -123,4 +123,6 @@
     * [晶莹的小石子](jing-ying-de-xiao-shi-zi.md)
     * [倒影](dao-ying.md)
     * [雨夜](yu-ye.md)
+  * 英文诗
+    * [Silence is an echo](silence-is-an-echo.md)
 
