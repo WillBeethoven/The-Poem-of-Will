@@ -1,22 +1,22 @@
 # SUMMARY
-* [序](README.md)
+* [序](自序.md)
 * 2010
-  * [古诗](古诗.md)
+  * 古诗
     * [拟归田园居](拟归田园居.md)
     * [隐居杂诗·叹](yin_ju_za_8bd7b7_tan.md)
 * 2011
-  * [古诗](2011_gu_shi.md)
+  * 古诗
     * [隐居杂诗（二）](yin_ju_za_shi_ff08_er_ff09.md)
     * [隐居杂诗·送友人](yin_ju_za_8bd7b7_song_you_ren.md)
 * 2012
-  * [古诗](2012_gu_shi.md)
+  * 古诗
     * [隐居杂诗·问路](yin_ju_za_8bd7b7_wen_lu.md)
     * [隐居杂诗·念](yin_ju_za_8bd7b7_nian.md)
     * [夏日](xia_ri.md)
     * [少年游·江畔独吟](shao_nian_6e38b7_jiang_pan_du_yin.md)
     * [逸麟嘉薇](yi_lin_jia_wei.md)
     * [锁清秋](suo_qing_qiu.md)
-  * [现代诗](2012_xian_dai_shi.md)
+  * 现代诗
     * [距离](ju_li.md)
     * [雕像](diao_xiang.md)
     * [梦花](meng_hua.md)
@@ -26,8 +26,8 @@
     * [犹存·世尘](you_5b58b7_shi_chen.md)
     * [落花愁](luo_hua_chou.md)
     * [辞离·为悠生](ci_79bbb7_wei_you_sheng.md)
-* [2013](2013.md)
-  * [古诗](gu_shi.md)
+* 2013
+  * 古诗
     * [世事](shi_shi.md)
     * [峨眉山游（一） 谜语](e_mei_shan_you_ff08_yi_ff09_mi_yu.md)
     * [峨眉山游（二）](e_mei_shan_you_ff08_er_ff09.md)
