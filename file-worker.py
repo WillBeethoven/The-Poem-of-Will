@@ -5,7 +5,7 @@ def loop_files(path):
 	for root, dirs, filenames in os.walk(path):
 		for file_name in filenames:
 			if ".md" in file_name:
-				change_hash(file_name)
+				add_br_at_endline(file_name)
 
 def rename_title(file_name, index, title, suffix):
 	if index == 0 and title != '':
@@ -35,13 +35,20 @@ def remove_dash(file_name):
       f.writelines(line.replace('---', ''))
     f.truncate()
 
-def add_br_at_endline(arg):
+def add_br_at_endline(file_name):
   with open(file_name, 'r+') as f:
     lines = f.readlines()
     f.seek(0)
-    f.writelines(line for line in lines if line.strip())
-    f.truncate()
-
+    for line in lines:
+      if '#' in line:
+        f.writelines(line)
+      elif '<br>' in line:
+        f.writelines(line)
+      elif len(line) == 1:
+        f.writelines(line)
+      else:
+        f.writelines(line.replace('\n', '<br>\n'))
+        
 def change_hash(file_name):
   with open(file_name, 'r+') as f:
     lines = f.readlines()
@@ -66,7 +73,6 @@ def isEnglish(s):
     return False
   else:
     return True
-
 
 indir = '/Users/Will/Poetry/'
 loop_files(indir)
