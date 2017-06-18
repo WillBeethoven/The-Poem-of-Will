@@ -6,7 +6,6 @@ def loop_files(path):
 		for file_name in filenames:
 			if ".md" in file_name:
 				delete_dash(file_name)
-        print(file_name)
 
 def rename_title(file_name, index, title, suffix):
 	if index == 0 and title != '':
@@ -19,12 +18,6 @@ def rename_file(file_name):
 		for index, line in enumerate(f):
 			title = rename_title(file_name, index, line, '.md')
 			os.rename(file_name, title)
-
-def rename_path_files(path):
-	for root, dirs, filenames in os.walk(path):
-    for f in filenames:
-      if isEnglish(f) and '.md' in f:
-        rename_file(f)
 
 def remove_empty_lines(file_name):
   """Overwrite the file, removing empty lines and lines that contain only whitespace."""
