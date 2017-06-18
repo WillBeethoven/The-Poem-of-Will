@@ -5,7 +5,7 @@ def loop_files(path):
 	for root, dirs, filenames in os.walk(path):
 		for file_name in filenames:
 			if ".md" in file_name:
-				change_hash(indir)
+				change_hash(file_name)
 
 def rename_title(file_name, index, title, suffix):
 	if index == 0 and title != '':
