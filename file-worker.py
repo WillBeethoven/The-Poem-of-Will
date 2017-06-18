@@ -5,7 +5,7 @@ def loop_files(path):
 	for root, dirs, filenames in os.walk(path):
 		for file_name in filenames:
 			if ".md" in file_name:
-				remove_empty_lines(file_name)
+				# remove_empty_lines(file_name)
 
 def rename_title(file_name, index, title, suffix):
 	if index == 0 and title != '':
@@ -39,6 +39,16 @@ def add_br_at_endline(arg):
         f.seek(0)
         f.writelines(line for line in lines if line.strip())
         f.truncate()
+
+def delete_dash(file_name):
+    with open(file_name, 'r+') as f:
+        lines = f.readlines()
+        f.seek(0)
+
+        for line in lines:
+          f.writelines(line.replace('---', ''))
+        f.truncate()
+
 	# TODO: readlines
 	# TODO: if the is <br>, continue
 	# TODO: add <br>
