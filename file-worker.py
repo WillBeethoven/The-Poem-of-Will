@@ -5,7 +5,7 @@ def loop_files(path):
 	for root, dirs, filenames in os.walk(path):
 		for file_name in filenames:
 			if ".md" in file_name:
-				delete_dash(file_name)
+				change_hash(indir)
 
 def rename_title(file_name, index, title, suffix):
 	if index == 0 and title != '':
@@ -40,6 +40,23 @@ def add_br_at_endline(arg):
     lines = f.readlines()
     f.seek(0)
     f.writelines(line for line in lines if line.strip())
+    f.truncate()
+
+def change_hash(file_name):
+  with open(file_name, 'r+') as f:
+    lines = f.readlines()
+    f.seek(0)
+
+    for line in lines:
+      if len(line) > 2:
+        if line[1] != '#' :
+          f.writelines(line.replace('#', '##'))
+        elif line[2] == '#':
+          f.writelines(line.replace('###', '##'))
+        else:
+          f.writelines(line)
+      else:
+        f.writelines(line)
     f.truncate()
 
 def isEnglish(s):
