@@ -48,7 +48,7 @@ def add_br_at_endline(file_name):
         f.writelines(line)
       else:
         f.writelines(line.replace('\n', '<br>\n'))
-        
+
 def change_hash(file_name):
   with open(file_name, 'r+') as f:
     lines = f.readlines()
@@ -66,6 +66,13 @@ def change_hash(file_name):
         f.writelines(line)
     f.truncate()
 
+def create_directory(indir):
+  for year in range(2010,2018):
+    year_dir = indir + str(year)
+    os.makedirs(year_dir)
+    os.makedirs(year_dir + "/古诗")
+    os.makedirs(year_dir + "/现代诗")
+
 def isEnglish(s):
   try:
     s.encode('ascii')
@@ -75,4 +82,5 @@ def isEnglish(s):
     return True
 
 indir = '/Users/Will/Poetry/'
-loop_files(indir)
+create_directory(indir)
+# loop_files(indir)
