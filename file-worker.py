@@ -82,5 +82,4 @@ def isEnglish(s):
     return True
 
 indir = '/Users/Will/Poetry/'
-create_directory(indir)
 # loop_files(indir)
