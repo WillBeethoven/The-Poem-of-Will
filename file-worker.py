@@ -27,19 +27,19 @@ def remove_empty_lines(file_name):
     f.writelines(line for line in lines if line.strip())
     f.truncate()
 
-def add_br_at_endline(arg):
-  with open(file_name, 'r+') as f:
-    lines = f.readlines()
-    f.seek(0)
-    f.writelines(line for line in lines if line.strip())
-    f.truncate()
-
-def delete_dash(file_name):
+def remove_dash(file_name):
   with open(file_name, 'r+') as f:
     lines = f.readlines()
     f.seek(0)
     for line in lines:
       f.writelines(line.replace('---', ''))
+    f.truncate()
+
+def add_br_at_endline(arg):
+  with open(file_name, 'r+') as f:
+    lines = f.readlines()
+    f.seek(0)
+    f.writelines(line for line in lines if line.strip())
     f.truncate()
 
 def isEnglish(s):
