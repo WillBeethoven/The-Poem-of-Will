@@ -5,7 +5,7 @@ def loop_files(path):
 	for root, dirs, filenames in os.walk(path):
 		for file_name in filenames:
 			if ".md" in file_name:
-				change_readme(file_name)
+				rename_file(file_name)
 
 def rename_title(file_name, index, title, suffix):
 	if index == 0 and title != '':
@@ -17,7 +17,7 @@ def rename_file(file_name):
 	with open(file_name) as f:
 		for index, line in enumerate(f):
 			title = rename_title(file_name, index, line, '.md')
-			os.rename(file_name, title)
+		os.rename(file_name, title)
 
 def remove_empty_lines(file_name):
   """Overwrite the file, removing empty lines and lines that contain only whitespace."""
