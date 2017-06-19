@@ -5,7 +5,7 @@ def loop_files(path):
 	for root, dirs, filenames in os.walk(path):
 		for file_name in filenames:
 			if ".md" in file_name:
-				add_br_at_endline(file_name)
+				change_readme(file_name)
 
 def rename_title(file_name, index, title, suffix):
 	if index == 0 and title != '':
@@ -66,6 +66,21 @@ def change_hash(file_name):
         f.writelines(line)
     f.truncate()
 
+def change_readme(file_name):
+  with open(file_name, 'r+') as f:
+    lines = f.readlines()
+    f.seek(0)
+    
+    for line in lines:
+      if '[' not in line: 
+        f.writelines(line)
+      else:
+        square_end = line.index(']')
+        title = line[3:square_end]
+        new_line = '- [' + title + '](' + title + '.md)\n'
+        f.writelines(new_line)
+    f.truncate()
+
 def create_directory(indir):
   for year in range(2010,2018):
     year_dir = indir + str(year)
@@ -82,4 +97,4 @@ def isEnglish(s):
     return True
 
 indir = '/Users/Will/Poetry/'
-# loop_files(indir)
+loop_files(indir)
