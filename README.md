@@ -1,6 +1,6 @@
-- [GitHub](https://github.com/WillBeethoven/Poetry) 点击上方 Watch 订阅，[GitBook](https://www.gitbook.com/book/willbeethoven/the-poetry-of-will/details) 点击 subscribe。心情不好时产量最高。
-- 下载[电子书版本](https://www.gitbook.com/book/willbeethoven/the-poetry-of-will/details)
-
+- [GitHub](https://github.com/WillBeethoven/Poetry) 点击上方 Watch 订阅，[GitBook](https://www.gitbook.com/book/willbeethoven/the-poetry-of-will/details) 点击 subscribe。心情不好产量高。
+- 下载[电子书](https://www.gitbook.com/book/willbeethoven/the-poetry-of-will/details)
+- 想法建议在 [issues](https://github.com/WillBeethoven/Poetry/issues) 里提。
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>
