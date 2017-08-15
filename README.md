@@ -1,4 +1,4 @@
-- [GitHub](https://github.com/WillBeethoven/Poetry) 点击上方 Watch 订阅，[GitBook](https://www.gitbook.com/book/willbeethoven/the-poetry-of-will/details) 点击 subscribe。心情不好产量高。
+- [GitHub](https://github.com/WillBeethoven/Poetry) 点击上方 Watch 订阅，[GitBook](https://www.gitbook.com/book/willbeethoven/the-poetry-of-will/details) 点击 subscribe。情感经历和产量密切相关。
 - 下载[电子书](https://www.gitbook.com/book/willbeethoven/the-poetry-of-will/details)
 - 想法建议在 [issues](https://github.com/WillBeethoven/Poetry/issues) 里提。
 ---
