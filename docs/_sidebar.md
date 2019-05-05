@@ -1,7 +1,4 @@
-# 维尔的诗
-
 - [自序](2016/古诗/自序.md)
-
 - [古诗](assets/古诗.md)
   - [拟归田园居](2010/古诗/拟归田园居.md)
   - [隐居杂诗·叹](2010/古诗/隐居杂诗·叹.md)
@@ -125,8 +122,6 @@
   - [我在等你](2017/现代诗/我在等你.md)
   - [远方](2018/现代诗/远方.md)
   - [晚风](2018/现代诗/晚风.md)
-  
-
 - [词](assets/词.md)
   - [犹存·世尘](2012/词/犹存·世尘.md)
   - [落花愁](2012/词/落花愁.md)
@@ -135,9 +130,5 @@
   - [一字情](2013/词/一字情.md)
   - [意游朱家角](2017/词/意游朱家角.md)
   - [听翠湖春晓有感](2017/词/听翠湖春晓有感.md)
-
 - [书](assets/书.md)
   - [自省书](2017/书/自省书.md)
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>
-本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可。
