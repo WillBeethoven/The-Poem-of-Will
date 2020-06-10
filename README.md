@@ -18,7 +18,7 @@ All poems are written in Chinese.
 再访往日友，恍如隔世人。<br>
 
 
-本书使用 [Markdown](https://guides.github.com/features/mastering-markdown/) 语法编写，存放在 [willbchang-book/prose](https://github.com/willbchang-book/prose) 通过 [GitHub Pages](https://pages.github.com/) 进行托管，并整合 [Docsify](https://docsify.js.org/#/) 动态生成网页。
+本书使用 [Markdown](https://guides.github.com/features/mastering-markdown/) 语法编写，存放在 [willbchang-book/poetry](https://github.com/willbchang-book/poetry) 通过 [GitHub Pages](https://pages.github.com/) 进行托管，并整合 [Docsify](https://docsify.js.org/#/) 动态生成网页。
 
 
 ## 许可
